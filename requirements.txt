@@ -1,0 +1,1 @@
+cp-mgmt-api-sdk==1.8.0
